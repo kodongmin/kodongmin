@@ -9,7 +9,7 @@
 ---
 
 ## 📬 Contact
-- **Email:** [dong6572@gmail.com](mailto:dong6572@gmail.com)  
+- **Email:** [dong6439@naver.com](mailto:dong6439@naver.com)  
 - **GitHub:** [https://github.com/kodongmin](https://github.com/kodongmin)  
 - **Major:** 단국대학교 소프트웨어학과 (B.S. in Software Engineering)  
 - **Location:** 분당, 대한민국 🇰🇷  
